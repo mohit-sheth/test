@@ -1,9 +1,6 @@
 #!/bin/python
-# client id
-# 325376081288-fb42dvlck5re4gid86o1c2d8vlaqel6p.apps.googleusercontent.com
-# client secret
-# QAsHkk__pBzpSKe4pLWJt0hL
 
+import os 
 import os
 import gspread
 from collections import defaultdict
